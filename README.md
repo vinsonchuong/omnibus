@@ -11,6 +11,13 @@ beginners to web development with all they need to start coding simple websites.
 
 ## Software Design
 
+### [Sandi Metz: 99 Bottles of OOP](https://www.sandimetz.com/99bottles/)
+"Everybody complains about the weather but nobody does anything about it."
+Likewise, everyone has an opinion about what good code looks like, but those
+opinions don't help you create it. This book fills that gap. It explains the
+process of writing good code, and teaches you to achieve beautifully programmed
+ends by way of extremely practical means.
+
 ### [Sandi Metz: Get a Whiff of This](https://www.youtube.com/watch?v=PJjHfa5yxlU)
 Most code is a mess. Most new requirements change existing code. Ergo, much our
 work involves altering imperfect code.
