@@ -3,6 +3,12 @@
 
 A collection of quality and friendly software engineering resources
 
+## Learning Software Development
+
+### [Mozilla: Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
+Welcome to the MDN Learning Area. This set of articles aims to provide complete
+beginners to web development with all they need to start coding simple websites.
+
 ## Software Design
 
 ### [Sandi Metz: Get a Whiff of This](https://www.youtube.com/watch?v=PJjHfa5yxlU)
