@@ -32,3 +32,20 @@ making it hard to understand your code.
 
 Learn ways to give confusing things names, focus on what’s important, and write
 nicer code.
+
+## Testing
+
+### [Justin Searls: Please don't mock me](https://www.youtube.com/watch?v=Af4M8GMoxi4)
+Confusion over test doubles starts with what to even call them. You might know
+them as stubs, proxies, mocks, or spies (but I call them test doubles, because a
+book you've probably never read declared it to be the most general term). I've
+spent a decade fascinated by the disconnect between why test double libraries
+were invented and how they are actually used by teams. What I've learned: their
+purpose fills a little-known but valuable niche, whereas their appeal addresses
+a mainstream but self-destructive impulse. If you don't leave this talk with a
+clearer distinction between tests that ensure safe changes versus tests that
+promote simple designs, I'll give you your 45 minutes back. Once that groundwork
+is laid, you'll better understand the characteristics that matter most in a test
+double library and the nuanced rules that should govern their use. I've found
+this clarity invaluable for producing valuable tests and maintainable code, and
+I think you will too.
