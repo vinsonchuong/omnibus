@@ -46,6 +46,11 @@ making it hard to understand your code.
 Learn ways to give confusing things names, focus on what’s important, and write
 nicer code.
 
+### [Neal Ford, Rebecca Parsons, Patrick Kua: Building Evolutionary Architectures](https://www.thoughtworks.com/books/building-evolutionary-architectures)
+The first principle of evolutionary architecture is to enable incremental change
+in an architecture over time. This practical guide gives you everything you need
+to know to get started.
+
 ## Testing
 
 ### [Justin Searls: Please don't mock me](https://www.youtube.com/watch?v=Af4M8GMoxi4)
