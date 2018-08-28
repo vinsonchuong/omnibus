@@ -51,7 +51,12 @@ The first principle of evolutionary architecture is to enable incremental change
 in an architecture over time. This practical guide gives you everything you need
 to know to get started.
 
-## Testing
+### [Eric Elliott: Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
+One of the biggest complaints I hear about TDD and unit tests is that people
+struggle with all of the mocking required to isolate units. Some people struggle
+to understand how their unit tests are even meaningful. In fact, I’ve seen
+developers get so lost in mocks, fakes, and stubs that they wrote entire files
+of unit tests where no actual implementation code was exercised at all. Oops.
 
 ### [Justin Searls: Please don't mock me](https://www.youtube.com/watch?v=Af4M8GMoxi4)
 Confusion over test doubles starts with what to even call them. You might know
@@ -67,3 +72,21 @@ is laid, you'll better understand the characteristics that matter most in a test
 double library and the nuanced rules that should govern their use. I've found
 this clarity invaluable for producing valuable tests and maintainable code, and
 I think you will too.
+
+## CSS
+
+###  [Rachel Andrew: The New CSS Layout](https://abookapart.com/products/the-new-css-layout)
+CSS Grid Layout will transform the way you design and develop for the web—and I
+will change the way you grok the spec. Learn to use Grid Layout within a system
+that includes existing methods to perform the tasks they were designed for—and
+take advantage of this pivotal moment in the evolution of layout.
+
+###  [Lea Verou: CSS Secrets](http://shop.oreilly.com/product/0636920031123.do)
+In this practical guide, CSS expert Lea Verou provides 47 undocumented
+techniques and tips to help intermediate-to advanced CSS developers devise
+elegant solutions to a wide range of everyday web design problems.
+
+Rather than focus on design, CSS Secrets shows you how to solve problems with
+code. You'll learn how to apply Lea's analytical approach to practically every
+CSS problem you face to attain DRY, maintainable, flexible, lightweight, and
+standards-compliant results.
