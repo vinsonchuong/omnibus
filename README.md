@@ -3,6 +3,17 @@
 
 A collection of quality and friendly software engineering resources
 
+## Teams
+
+### [Eryn O'Neil: You're the tech lead! Now what?](https://www.youtube.com/watch?v=eFK2aJdRucc)
+Congratulations! You’re the technical lead on your next project! But now what?
+The lead can be responsible for requirements, architecture, communication with
+clients or managers, or divvying work amongst the team–and that's just what they
+tell you about ahead of time. We’ll talk about how to oversee the project
+without losing sight of the day to day, how to motivate your team without
+overstepping your bounds, and tactics to deal with issues you might not
+anticipate, but will almost certainly encounter.
+
 ## Learning Software Development
 
 ### [Mozilla: Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
