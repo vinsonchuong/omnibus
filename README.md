@@ -44,6 +44,15 @@ and surgically apply the curative refactorings. It breaks a messy problem into
 clear-cut pieces, and proves that you can fix anything without being forced to
 understand everything.
 
+### [Sandi Metz: All the Little Things](https://youtu.be/8bZh5LMaSmE)
+Theory tells us to build applications out of small, interchangeable objects but
+reality often supplies the exact opposite. Many apps contain huge classes of
+long methods and hair-raising conditionals; they're hard to understand,
+difficult to reuse and costly to change. This talk takes an ugly section of
+conditional code and converts it into a few simple objects. It bridges the gap
+between OO theory and practice and teaches straightforward strategies that all
+can use to improve their code.
+
 ### [Sam Jones: JavaScript Is Too Convenient](https://vimeo.com/267418198)
 Which conveniences do we take advantage of everyday? Which are taking advantage
 of us?
