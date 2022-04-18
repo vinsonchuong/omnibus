@@ -93,6 +93,13 @@ double library and the nuanced rules that should govern their use. I've found
 this clarity invaluable for producing valuable tests and maintainable code, and
 I think you will too.
 
+### [Gary Bernhardt: Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
+This talk is about using simple values (as opposed to complex objects) not just
+for holding data, but also as the boundaries between components and subsystems.
+It moves through many topics: functional programming; mutability's relationship
+to OO; isolated unit testing with and without test doubles; and concurrency, to
+name some.
+
 ## CSS
 
 ###  [Rachel Andrew: The New CSS Layout](https://abookapart.com/products/the-new-css-layout)
